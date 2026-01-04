@@ -1,0 +1,17 @@
+.header {
+    background-color: red;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    color: #fff;
+}
+.btn {
+    padding: 10px 20px;
+    background: grey;
+    color: #ddd;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+}

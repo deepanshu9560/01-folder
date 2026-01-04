@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.tp {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+}
+button {
+    position: fixed;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: crimson;
+    color: white;
+    padding: 5px 15px;
+    letter-spacing: 3px;
+    border-radius: 2px;
+    font-weight: bold;
+    cursor: pointer;
+}
